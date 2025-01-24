@@ -1,5 +1,7 @@
 # Exploratory Data Analysis: Unveiling Insights with Data
 
+![EDA Visualization](eda_image.jpeg)
+
 This project focuses on exploratory data analysis (EDA) to uncover patterns, trends, and insights from datasets. It provides a structured approach to understanding and visualizing data.
 
 ## Features
