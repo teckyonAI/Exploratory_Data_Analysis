@@ -33,9 +33,9 @@ To set up the project locally, follow these steps:
 1. Open `EDA.ipynb` in Jupyter Notebook.
 2. Load the provided dataset (`possum.csv`).
 3. Follow the notebook to:
-  - Analyze data distributions.
-  - Generate visualizations for key insights.
-  - Identify patterns and relationships in the dataset.
+     - Analyze data distributions.
+     - Generate visualizations for key insights.
+     - Identify patterns and relationships in the dataset.
 
 ## Contribution
 
